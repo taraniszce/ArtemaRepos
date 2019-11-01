@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "554601183408",
+    "firebase_url": "https://sassis-d6474.firebaseio.com",
+    "project_id": "sassis-d6474",
+    "storage_bucket": "sassis-d6474.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554601183408:android:5d57edcf95b8f9ffe4e375",
+        "android_client_info": {
+          "package_name": "com.example.wsproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554601183408-qepdjkh89sqs1cp4lfv9kfcj7ergbu0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg4BR2tnNyVTgnCe4ibVRkxg4evo4IfV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554601183408-qepdjkh89sqs1cp4lfv9kfcj7ergbu0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
